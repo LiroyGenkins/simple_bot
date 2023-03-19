@@ -1,2 +1,2 @@
 # simple_tg_bot
- Simple telegram bot with schedule and some basic features
+ Simple telegram bot with schedule, connection to PostgreSQL and some basic features
